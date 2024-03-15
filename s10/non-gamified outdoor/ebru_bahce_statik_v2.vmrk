@@ -1,0 +1,64 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=ebru_bahce_statik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230726152625922895
+Mk2=Stimulus,S  1,5126,1,0
+Mk3=Stimulus,S  2,21179,1,0
+Mk4=Stimulus,S  1,37203,1,0
+Mk5=Stimulus,S  2,53261,1,0
+Mk6=Stimulus,S  1,69291,1,0
+Mk7=Stimulus,S  2,85321,1,0
+Mk8=Stimulus,S  1,101351,1,0
+Mk9=Stimulus,S  2,117367,1,0
+Mk10=Stimulus,S  1,133435,1,0
+Mk11=Stimulus,S  2,149467,1,0
+Mk12=Stimulus,S  1,165519,1,0
+Mk13=Stimulus,S  2,181586,1,0
+Mk14=Stimulus,S  1,197637,1,0
+Mk15=Stimulus,S  2,213706,1,0
+Mk16=Stimulus,S  1,229757,1,0
+Mk17=Stimulus,S  2,245795,1,0
+Mk18=New Segment,,266241,1,0,20230726153104266634
+Mk19=Stimulus,S  1,271113,1,0
+Mk20=Stimulus,S  2,287157,1,0
+Mk21=Stimulus,S  1,303205,1,0
+Mk22=Stimulus,S  2,319245,1,0
+Mk23=Stimulus,S  1,335271,1,0
+Mk24=Stimulus,S  2,351323,1,0
+Mk25=Stimulus,S  1,367359,1,0
+Mk26=Stimulus,S  2,383386,1,0
+Mk27=Stimulus,S  1,399422,1,0
+Mk28=Stimulus,S  2,415460,1,0
+Mk29=Stimulus,S  1,431535,1,0
+Mk30=Stimulus,S  2,447590,1,0
+Mk31=Stimulus,S  1,463632,1,0
+Mk32=Stimulus,S  2,479670,1,0
+Mk33=Stimulus,S  1,495714,1,0
+Mk34=Stimulus,S  2,511752,1,0
+Mk35=New Segment,,530341,1,0,20230726153850432897
+Mk36=Stimulus,S  1,535470,1,0
+Mk37=Stimulus,S  2,551527,1,0
+Mk38=Stimulus,S  1,567578,1,0
+Mk39=Stimulus,S  2,583600,1,0
+Mk40=Stimulus,S  1,599657,1,0
+Mk41=Stimulus,S  2,615676,1,0
+Mk42=Stimulus,S  1,631714,1,0
+Mk43=New Segment,LostSamples: 3,645514,1,0,20230726154045611444
+Mk44=Stimulus,S  2,647752,1,0
+Mk45=Stimulus,S  1,663802,1,0
+Mk46=Stimulus,S  2,679856,1,0
+Mk47=Stimulus,S  1,695921,1,0
+Mk48=Stimulus,S  2,711946,1,0
+Mk49=Stimulus,S  1,727983,1,0
+Mk50=Stimulus,S  2,744021,1,0
+Mk51=Stimulus,S  1,760045,1,0
+Mk52=Stimulus,S  2,776084,1,0
+Mk53=New Segment,,801521,1,0,20230726154955929006

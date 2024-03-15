@@ -1,0 +1,62 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=ebru_mutfak_dinamik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230726155031229480
+Mk2=Stimulus,S  1,10498,1,0
+Mk3=Stimulus,S  2,23846,1,0
+Mk4=Stimulus,S  1,37212,1,0
+Mk5=Stimulus,S  2,50551,1,0
+Mk6=Stimulus,S  1,63903,1,0
+Mk7=Stimulus,S  2,77240,1,0
+Mk8=Stimulus,S  1,90590,1,0
+Mk9=Stimulus,S  2,103925,1,0
+Mk10=Stimulus,S  1,117291,1,0
+Mk11=Stimulus,S  2,130613,1,0
+Mk12=Stimulus,S  1,143952,1,0
+Mk13=Stimulus,S  2,157316,1,0
+Mk14=Stimulus,S  1,170681,1,0
+Mk15=Stimulus,S  2,184032,1,0
+Mk16=Stimulus,S  1,197396,1,0
+Mk17=Stimulus,S  2,210738,1,0
+Mk18=New Segment,,233361,1,0,20230726155713234881
+Mk19=Stimulus,S  1,238928,1,0
+Mk20=Stimulus,S  2,252262,1,0
+Mk21=Stimulus,S  1,265614,1,0
+Mk22=Stimulus,S  2,279078,1,0
+Mk23=Stimulus,S  1,292444,1,0
+Mk24=Stimulus,S  2,305782,1,0
+Mk25=Stimulus,S  1,319102,1,0
+Mk26=Stimulus,S  2,332468,1,0
+Mk27=Stimulus,S  1,345834,1,0
+Mk28=Stimulus,S  2,359171,1,0
+Mk29=Stimulus,S  1,372484,1,0
+Mk30=Stimulus,S  2,385841,1,0
+Mk31=Stimulus,S  1,399195,1,0
+Mk32=Stimulus,S  2,412533,1,0
+Mk33=Stimulus,S  1,425893,1,0
+Mk34=Stimulus,S  2,439219,1,0
+Mk35=New Segment,,454921,1,0,20230726160108518042
+Mk36=Stimulus,S  1,460142,1,0
+Mk37=Stimulus,S  2,473493,1,0
+Mk38=Stimulus,S  1,486831,1,0
+Mk39=Stimulus,S  2,500168,1,0
+Mk40=Stimulus,S  1,513502,1,0
+Mk41=Stimulus,S  2,526853,1,0
+Mk42=Stimulus,S  1,540205,1,0
+Mk43=Stimulus,S  2,553552,1,0
+Mk44=Stimulus,S  1,566922,1,0
+Mk45=Stimulus,S  2,580272,1,0
+Mk46=Stimulus,S  1,593652,1,0
+Mk47=Stimulus,S  2,607020,1,0
+Mk48=Stimulus,S  1,620380,1,0
+Mk49=Stimulus,S  2,633719,1,0
+Mk50=Stimulus,S  1,647068,1,0
+Mk51=Stimulus,S  2,660392,1,0

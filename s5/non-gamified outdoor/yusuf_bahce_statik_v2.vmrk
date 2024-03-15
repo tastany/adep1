@@ -1,0 +1,62 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=yusuf_bahce_statik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230718123753574031
+Mk2=Stimulus,S  1,7098,1,0
+Mk3=Stimulus,S  2,23157,1,0
+Mk4=Stimulus,S  1,39197,1,0
+Mk5=Stimulus,S  2,55233,1,0
+Mk6=Stimulus,S  1,71257,1,0
+Mk7=Stimulus,S  2,87281,1,0
+Mk8=Stimulus,S  1,103296,1,0
+Mk9=Stimulus,S  2,119327,1,0
+Mk10=Stimulus,S  1,135404,1,0
+Mk11=Stimulus,S  2,151472,1,0
+Mk12=Stimulus,S  1,167515,1,0
+Mk13=Stimulus,S  2,183556,1,0
+Mk14=Stimulus,S  1,199609,1,0
+Mk15=Stimulus,S  2,215656,1,0
+Mk16=Stimulus,S  1,231675,1,0
+Mk17=Stimulus,S  2,247713,1,0
+Mk18=New Segment,,264281,1,0,20230718124404579015
+Mk19=Stimulus,S  1,269175,1,0
+Mk20=Stimulus,S  2,285227,1,0
+Mk21=Stimulus,S  1,301279,1,0
+Mk22=Stimulus,S  2,317348,1,0
+Mk23=Stimulus,S  1,333384,1,0
+Mk24=Stimulus,S  2,349423,1,0
+Mk25=Stimulus,S  1,365444,1,0
+Mk26=Stimulus,S  2,381507,1,0
+Mk27=Stimulus,S  1,397564,1,0
+Mk28=Stimulus,S  2,413595,1,0
+Mk29=Stimulus,S  1,429668,1,0
+Mk30=Stimulus,S  2,445679,1,0
+Mk31=Stimulus,S  1,461713,1,0
+Mk32=Stimulus,S  2,477744,1,0
+Mk33=Stimulus,S  1,493782,1,0
+Mk34=Stimulus,S  2,509848,1,0
+Mk35=New Segment,,523541,1,0,20230718125009064135
+Mk36=Stimulus,S  1,528813,1,0
+Mk37=Stimulus,S  2,544865,1,0
+Mk38=Stimulus,S  1,560918,1,0
+Mk39=Stimulus,S  2,576942,1,0
+Mk40=Stimulus,S  1,592967,1,0
+Mk41=Stimulus,S  2,608998,1,0
+Mk42=Stimulus,S  1,625038,1,0
+Mk43=Stimulus,S  2,641071,1,0
+Mk44=Stimulus,S  1,657090,1,0
+Mk45=Stimulus,S  2,673130,1,0
+Mk46=Stimulus,S  1,689160,1,0
+Mk47=Stimulus,S  2,705214,1,0
+Mk48=Stimulus,S  1,721255,1,0
+Mk49=Stimulus,S  2,737295,1,0
+Mk50=Stimulus,S  1,753347,1,0
+Mk51=Stimulus,S  2,769372,1,0

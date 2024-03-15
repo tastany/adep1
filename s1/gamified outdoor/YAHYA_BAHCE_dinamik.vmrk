@@ -1,0 +1,51 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=YAHYA_BAHCE_dinamik.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230626120759466797
+Mk2=Stimulus,S  1,23718,1,0
+Mk3=Stimulus,S  2,42752,1,0
+Mk4=Stimulus,S  1,61771,1,0
+Mk5=Stimulus,S  2,80800,1,0
+Mk6=Stimulus,S  1,99862,1,0
+Mk7=Stimulus,S  2,118893,1,0
+Mk8=Stimulus,S  1,137937,1,0
+Mk9=Stimulus,S  2,156969,1,0
+Mk10=Stimulus,S  1,175987,1,0
+Mk11=Stimulus,S  2,195018,1,0
+Mk12=Stimulus,S  1,214062,1,0
+Mk13=Stimulus,S  2,233120,1,0
+Mk14=Stimulus,S  1,252167,1,0
+Mk15=Stimulus,S  2,271227,1,0
+Mk16=Stimulus,S  1,290279,1,0
+Mk17=Stimulus,S  2,309344,1,0
+Mk18=Stimulus,S  1,328419,1,0
+Mk19=Stimulus,S  2,347493,1,0
+Mk20=Stimulus,S  1,366522,1,0
+Mk21=Stimulus,S  2,385596,1,0
+Mk22=Stimulus,S  1,404638,1,0
+Mk23=Stimulus,S  2,423687,1,0
+Mk24=Stimulus,S  1,442729,1,0
+Mk25=Stimulus,S  2,461765,1,0
+Mk26=Stimulus,S  1,480809,1,0
+Mk27=Stimulus,S  2,499855,1,0
+Mk28=Stimulus,S  1,518921,1,0
+Mk29=Stimulus,S  2,537987,1,0
+Mk30=Stimulus,S  1,557012,1,0
+Mk31=Stimulus,S  2,576064,1,0
+Mk32=Stimulus,S  1,595080,1,0
+Mk33=Stimulus,S  2,614127,1,0
+Mk34=Stimulus,S  1,633184,1,0
+Mk35=Stimulus,S  2,652259,1,0
+Mk36=Stimulus,S  1,671277,1,0
+Mk37=Stimulus,S  2,690323,1,0
+Mk38=Stimulus,S  1,709375,1,0
+Mk39=Stimulus,S  2,728427,1,0
+Mk40=Stimulus,S  1,747471,1,0

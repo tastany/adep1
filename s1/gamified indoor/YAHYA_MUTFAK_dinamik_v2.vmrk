@@ -1,0 +1,61 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=YAHYA_MUTFAK_dinamik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230711163244229042
+Mk2=Stimulus,S  2,20693,1,0
+Mk3=New Segment,,157361,1,0,20230711163537971376
+Mk4=Stimulus,S  1,175979,1,0
+Mk5=Stimulus,S  2,189372,1,0
+Mk6=Stimulus,S  1,202695,1,0
+Mk7=Stimulus,S  2,216059,1,0
+Mk8=Stimulus,S  1,229439,1,0
+Mk9=Stimulus,S  2,242803,1,0
+Mk10=Stimulus,S  1,256157,1,0
+Mk11=Stimulus,S  2,269506,1,0
+Mk12=Stimulus,S  1,282872,1,0
+Mk13=Stimulus,S  2,322924,1,0
+Mk14=Stimulus,S  1,336291,1,0
+Mk15=Stimulus,S  2,349668,1,0
+Mk16=Stimulus,S  1,363020,1,0
+Mk17=New Segment,,392501,1,0,20230711164454903893
+Mk18=Stimulus,S  2,398538,1,0
+Mk19=Stimulus,S  1,411895,1,0
+Mk20=Stimulus,S  2,425263,1,0
+Mk21=Stimulus,S  1,438629,1,0
+Mk22=Stimulus,S  2,451991,1,0
+Mk23=Stimulus,S  1,465357,1,0
+Mk24=Stimulus,S  2,478722,1,0
+Mk25=Stimulus,S  1,492087,1,0
+Mk26=Stimulus,S  2,505425,1,0
+Mk27=Stimulus,S  1,518823,1,0
+Mk28=Stimulus,S  2,532183,1,0
+Mk29=Stimulus,S  1,545521,1,0
+Mk30=Stimulus,S  2,558883,1,0
+Mk31=Stimulus,S  1,572265,1,0
+Mk32=Stimulus,S  2,585626,1,0
+Mk33=Stimulus,S  1,598967,1,0
+Mk34=New Segment,,637081,1,0,20230711165332369107
+Mk35=Stimulus,S  2,643526,1,0
+Mk36=Stimulus,S  1,656872,1,0
+Mk37=Stimulus,S  2,670236,1,0
+Mk38=Stimulus,S  1,683602,1,0
+Mk39=Stimulus,S  2,696981,1,0
+Mk40=Stimulus,S  1,710361,1,0
+Mk41=Stimulus,S  2,723710,1,0
+Mk42=Stimulus,S  1,737083,1,0
+Mk43=Stimulus,S  2,750455,1,0
+Mk44=Stimulus,S  1,763792,1,0
+Mk45=Stimulus,S  2,777143,1,0
+Mk46=Stimulus,S  1,790495,1,0
+Mk47=Stimulus,S  2,803832,1,0
+Mk48=Stimulus,S  1,817175,1,0
+Mk49=Stimulus,S  2,830535,1,0
+Mk50=Stimulus,S  1,843901,1,0

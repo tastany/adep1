@@ -1,0 +1,62 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=a_samet_bahce_statik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230713133252523233
+Mk2=Stimulus,S  2,9761,1,0
+Mk3=Stimulus,S  1,25798,1,0
+Mk4=Stimulus,S  2,41838,1,0
+Mk5=Stimulus,S  1,57855,1,0
+Mk6=Stimulus,S  2,73916,1,0
+Mk7=Stimulus,S  1,89967,1,0
+Mk8=Stimulus,S  2,105993,1,0
+Mk9=Stimulus,S  1,122022,1,0
+Mk10=Stimulus,S  2,138068,1,0
+Mk11=Stimulus,S  1,154086,1,0
+Mk12=Stimulus,S  2,170143,1,0
+Mk13=Stimulus,S  1,186163,1,0
+Mk14=Stimulus,S  2,202178,1,0
+Mk15=Stimulus,S  1,218253,1,0
+Mk16=Stimulus,S  2,234292,1,0
+Mk17=Stimulus,S  1,250331,1,0
+Mk18=New Segment,,276541,1,0,20230713134342197323
+Mk19=Stimulus,S  2,283644,1,0
+Mk20=Stimulus,S  1,299658,1,0
+Mk21=Stimulus,S  2,315710,1,0
+Mk22=Stimulus,S  1,331775,1,0
+Mk23=Stimulus,S  2,347797,1,0
+Mk24=Stimulus,S  1,363864,1,0
+Mk25=Stimulus,S  2,379937,1,0
+Mk26=Stimulus,S  1,395984,1,0
+Mk27=Stimulus,S  2,412021,1,0
+Mk28=Stimulus,S  1,428061,1,0
+Mk29=Stimulus,S  2,444100,1,0
+Mk30=Stimulus,S  1,460137,1,0
+Mk31=Stimulus,S  2,476157,1,0
+Mk32=Stimulus,S  1,492184,1,0
+Mk33=Stimulus,S  2,508249,1,0
+Mk34=Stimulus,S  1,524307,1,0
+Mk35=New Segment,,547101,1,0,20230713135043147145
+Mk36=Stimulus,S  2,553149,1,0
+Mk37=Stimulus,S  1,569178,1,0
+Mk38=Stimulus,S  2,585253,1,0
+Mk39=Stimulus,S  1,601301,1,0
+Mk40=Stimulus,S  2,617349,1,0
+Mk41=Stimulus,S  1,633403,1,0
+Mk42=Stimulus,S  2,649471,1,0
+Mk43=Stimulus,S  1,665512,1,0
+Mk44=Stimulus,S  2,681581,1,0
+Mk45=Stimulus,S  1,697633,1,0
+Mk46=Stimulus,S  2,713669,1,0
+Mk47=Stimulus,S  1,729693,1,0
+Mk48=Stimulus,S  2,745719,1,0
+Mk49=Stimulus,S  1,761740,1,0
+Mk50=Stimulus,S  2,777768,1,0
+Mk51=Stimulus,S  1,793803,1,0

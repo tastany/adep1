@@ -1,0 +1,196 @@
+BrainVision Data Exchange Header File Version 1.0
+; Data created by the BrainVision Recorder
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=a_samet_bahce_dinamik_v2.eeg
+MarkerFile=a_samet_bahce_dinamik_v2.vmrk
+DataFormat=BINARY
+; Data orientation: MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=MULTIPLEXED
+NumberOfChannels=19
+; Sampling interval in microseconds
+SamplingInterval=1000
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in "Unit">,<Unit>, Future extensions..
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in channel names are coded as "\1".
+Ch1=FC5,,0.0406901,µV
+Ch2=FC6,,0.0406901,µV
+Ch3=CP5,,0.0406901,µV
+Ch4=CP6,,0.0406901,µV
+Ch5=FC1,,0.0406901,µV
+Ch6=FC2,,0.0406901,µV
+Ch7=C3,,0.0406901,µV
+Ch8=CZ,,0.0406901,µV
+Ch9=C4,,0.0406901,µV
+Ch10=CP1,,0.0406901,µV
+Ch11=CP2,,0.0406901,µV
+Ch12=P3,,0.0406901,µV
+Ch13=PZ,,0.0406901,µV
+Ch14=P4,,0.0406901,µV
+Ch15=O1,,0.0406901,µV
+Ch16=O2,,0.0406901,µV
+Ch17=x_dir,,1,mg
+Ch18=y_dir,,1,mg
+Ch19=z_dir,,1,mg
+
+[Comment]
+
+BrainVision Recorder Professional   -   V. 1.25.0201
+
+
+A m p l i f i e r  S e t u p
+============================
+Number of channels: 19
+Sampling Rate [Hz]: 1000
+Sampling Interval [µS]: 1000
+
+Channels
+--------
+#     Name      Phys. Chn.    Resolution / Unit   Low Cutoff [s]   High Cutoff [Hz]   Notch [Hz]    Gradient         Offset
+1     FC5         1          0.0406901 µV             DC              262              Off
+2     FC6         2          0.0406901 µV             DC              262              Off
+3     CP5         3          0.0406901 µV             DC              262              Off
+4     CP6         4          0.0406901 µV             DC              262              Off
+5     FC1         5          0.0406901 µV             DC              262              Off
+6     FC2         6          0.0406901 µV             DC              262              Off
+7     C3          7          0.0406901 µV             DC              262              Off
+8     CZ          8          0.0406901 µV             DC              262              Off
+9     C4          9          0.0406901 µV             DC              262              Off
+10    CP1         10         0.0406901 µV             DC              262              Off
+11    CP2         11         0.0406901 µV             DC              262              Off
+12    P3          12         0.0406901 µV             DC              262              Off
+13    PZ          13         0.0406901 µV             DC              262              Off
+14    P4          14         0.0406901 µV             DC              262              Off
+15    O1          15         0.0406901 µV             DC              262              Off
+16    O2          16         0.0406901 µV             DC              262              Off
+17    x_dir       33                 1 mg             DC               50              Off
+18    y_dir       34                 1 mg             DC               50              Off
+19    z_dir       35                 1 mg             DC               50              Off
+
+
+LiveAmp SN:                	101411-0987
+LiveAmp hardware revision: 	5
+Firmware version:          	4.76
+
+Sensor and trigger extension SN:	               101411-0335
+Sensor and trigger extension hardware revision: 1
+Sensor and trigger extension firmware version:  1.52
+
+Library version:           	1.22.2.17
+
+Use Active/Dry Electrodes: Yes
+
+S o f t w a r e  F i l t e r s
+==============================
+#     Low Cutoff [s]   High Cutoff [Hz]   Notch [Hz]
+1      1                70                 50
+2      1                70                 50
+3      1                70                 50
+4      1                70                 50
+5      1                70                 50
+6      1                70                 50
+7      1                70                 50
+8      1                70                 50
+9      1                70                 50
+10     1                70                 50
+11     1                70                 50
+12     1                70                 50
+13     1                70                 50
+14     1                70                 50
+15     1                70                 50
+16     1                70                 50
+17     1                70                 50
+18     1                70                 50
+19     1                70                 50
+
+
+Data/Gnd/Ref Electrodes Selected Impedance Measurement Range: 15 - 60 kOhm
+Impedance [kOhm] at 12:49:49 :
+FC5:          0
+FC6:          2
+CP5:          0
+CP6:          5
+FC1:          0
+FC2:          0
+C3:           0
+CZ:           0
+C4:           0
+CP1:          0
+CP2:          0
+P3:           0
+PZ:           5
+P4:           5
+O1:           7
+O2:           3
+Gnd:          2
+Ref:          0
+
+Data/Gnd/Ref Electrodes Selected Impedance Measurement Range: 15 - 60 kOhm
+Impedance [kOhm] at 13:04:06 :
+FC5:          0
+FC6:          1
+CP5:          0
+CP6:          4
+FC1:          0
+FC2:          1
+C3:           0
+CZ:           0
+C4:           0
+CP1:          0
+CP2:          0
+P3:           0
+PZ:           4
+P4:           3
+O1:           3
+O2:           3
+Gnd:          1
+Ref:          0
+
+Data/Gnd/Ref Electrodes Selected Impedance Measurement Range: 15 - 60 kOhm
+Impedance [kOhm] at 13:14:53 :
+FC5:          0
+FC6:          1
+CP5:          0
+CP6:          3
+FC1:          0
+FC2:          1
+C3:           0
+CZ:           0
+C4:           0
+CP1:          0
+CP2:          0
+P3:           1
+PZ:           4
+P4:           3
+O1:           3
+O2:           4
+Gnd:          1
+Ref:          0
+
+Data/Gnd/Ref Electrodes Selected Impedance Measurement Range: 15 - 60 kOhm
+Impedance [kOhm] at 13:25:23 :
+FC5:          0
+FC6:          1
+CP5:          0
+CP6:          3
+FC1:          0
+FC2:          1
+C3:           0
+CZ:           0
+C4:           0
+CP1:          0
+CP2:          0
+P3:           0
+PZ:           4
+P4:           2
+O1:           4
+O2:           3
+Gnd:          1
+Ref:          0

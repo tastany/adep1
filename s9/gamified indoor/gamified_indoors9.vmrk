@@ -1,0 +1,62 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=a_samet_mutfak_dinamik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230713140106797333
+Mk2=Stimulus,S  2,9907,1,0
+Mk3=Stimulus,S  1,23279,1,0
+Mk4=Stimulus,S  2,36629,1,0
+Mk5=Stimulus,S  1,49986,1,0
+Mk6=Stimulus,S  2,63363,1,0
+Mk7=Stimulus,S  1,76712,1,0
+Mk8=Stimulus,S  2,90075,1,0
+Mk9=Stimulus,S  1,103426,1,0
+Mk10=Stimulus,S  2,116793,1,0
+Mk11=Stimulus,S  1,130145,1,0
+Mk12=Stimulus,S  2,143509,1,0
+Mk13=Stimulus,S  1,156846,1,0
+Mk14=Stimulus,S  2,170225,1,0
+Mk15=Stimulus,S  1,183591,1,0
+Mk16=Stimulus,S  2,196926,1,0
+Mk17=Stimulus,S  1,210289,1,0
+Mk18=New Segment,,242201,1,0,20230713140859974415
+Mk19=Stimulus,S  2,249312,1,0
+Mk20=Stimulus,S  1,262728,1,0
+Mk21=Stimulus,S  2,276078,1,0
+Mk22=Stimulus,S  1,289429,1,0
+Mk23=Stimulus,S  2,302795,1,0
+Mk24=Stimulus,S  1,316132,1,0
+Mk25=Stimulus,S  2,329496,1,0
+Mk26=Stimulus,S  1,342834,1,0
+Mk27=Stimulus,S  2,356212,1,0
+Mk28=Stimulus,S  1,369564,1,0
+Mk29=Stimulus,S  2,382914,1,0
+Mk30=Stimulus,S  1,396255,1,0
+Mk31=Stimulus,S  2,409603,1,0
+Mk32=Stimulus,S  1,422957,1,0
+Mk33=Stimulus,S  2,436320,1,0
+Mk34=Stimulus,S  1,449700,1,0
+Mk35=New Segment,,479461,1,0,20230713141509596065
+Mk36=Stimulus,S  2,486922,1,0
+Mk37=Stimulus,S  1,500283,1,0
+Mk38=Stimulus,S  2,513647,1,0
+Mk39=Stimulus,S  1,527027,1,0
+Mk40=Stimulus,S  2,540405,1,0
+Mk41=Stimulus,S  1,553758,1,0
+Mk42=Stimulus,S  2,567110,1,0
+Mk43=Stimulus,S  1,580447,1,0
+Mk44=Stimulus,S  2,593823,1,0
+Mk45=Stimulus,S  1,607190,1,0
+Mk46=Stimulus,S  2,620568,1,0
+Mk47=Stimulus,S  1,633934,1,0
+Mk48=Stimulus,S  2,647304,1,0
+Mk49=Stimulus,S  1,660665,1,0
+Mk50=Stimulus,S  2,674015,1,0
+Mk51=Stimulus,S  1,687381,1,0

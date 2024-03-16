@@ -1,0 +1,28 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=barkın_mutfak_dinamik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230717161447329084
+Mk2=Stimulus,S  2,17069,1,0
+Mk3=Stimulus,S  1,30434,1,0
+Mk4=Stimulus,S  2,43758,1,0
+Mk5=Stimulus,S  1,57136,1,0
+Mk6=Stimulus,S  2,70488,1,0
+Mk7=Stimulus,S  1,83854,1,0
+Mk8=Stimulus,S  2,97193,1,0
+Mk9=Stimulus,S  1,110530,1,0
+Mk10=Stimulus,S  2,123868,1,0
+Mk11=Stimulus,S  1,137247,1,0
+Mk12=Stimulus,S  2,150583,1,0
+Mk13=Stimulus,S  1,163936,1,0
+Mk14=Stimulus,S  2,177286,1,0
+Mk15=Stimulus,S  1,190664,1,0
+Mk16=Stimulus,S  2,204003,1,0
+Mk17=Stimulus,S  1,217411,1,0

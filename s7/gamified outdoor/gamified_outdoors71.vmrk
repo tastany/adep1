@@ -1,0 +1,47 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=barkın_bahce_dinamik_v2_2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230717152242430256
+Mk2=Stimulus,S  2,7865,1,0
+Mk3=Stimulus,S  1,21227,1,0
+Mk4=Stimulus,S  2,34565,1,0
+Mk5=Stimulus,S  1,47946,1,0
+Mk6=Stimulus,S  2,61282,1,0
+Mk7=Stimulus,S  1,74645,1,0
+Mk8=Stimulus,S  2,88045,1,0
+Mk9=Stimulus,S  1,101436,1,0
+Mk10=Stimulus,S  2,114782,1,0
+Mk11=Stimulus,S  1,128120,1,0
+Mk12=Stimulus,S  2,141463,1,0
+Mk13=Stimulus,S  1,154818,1,0
+Mk14=Stimulus,S  2,168173,1,0
+Mk15=Stimulus,S  1,181552,1,0
+Mk16=Stimulus,S  2,194920,1,0
+Mk17=Stimulus,S  1,208308,1,0
+Mk18=New Segment,,223901,1,0,20230717153458442284
+Mk19=Stimulus,S  2,231528,1,0
+Mk20=Stimulus,S  1,244919,1,0
+Mk21=Stimulus,S  2,258264,1,0
+Mk22=Stimulus,S  1,271589,1,0
+Mk23=Stimulus,S  2,284921,1,0
+Mk24=Stimulus,S  1,298275,1,0
+Mk25=New Segment,LostSamples: 4,300238,1,0,20230717153614785309
+Mk26=Stimulus,S  2,311640,1,0
+Mk27=Stimulus,S  1,325004,1,0
+Mk28=Stimulus,S  2,338346,1,0
+Mk29=Stimulus,S  1,351719,1,0
+Mk30=New Segment,LostSamples: 5,357073,1,0,20230717153711646073
+Mk31=Stimulus,S  2,365087,1,0
+Mk32=Stimulus,S  1,378442,1,0
+Mk33=Stimulus,S  2,391823,1,0
+Mk34=Stimulus,S  1,405185,1,0
+Mk35=Stimulus,S  2,418524,1,0
+Mk36=Stimulus,S  1,431863,1,0

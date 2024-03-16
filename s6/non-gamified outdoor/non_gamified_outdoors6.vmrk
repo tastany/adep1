@@ -1,0 +1,64 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=ulvi_bahce_statik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230717121544517966
+Mk2=New Segment,,1921,1,0,20230717121655901596
+Mk3=Stimulus,S  2,7296,1,0
+Mk4=Stimulus,S  1,23349,1,0
+Mk5=Stimulus,S  2,39397,1,0
+Mk6=Stimulus,S  1,55419,1,0
+Mk7=Stimulus,S  2,71449,1,0
+Mk8=Stimulus,S  1,87483,1,0
+Mk9=Stimulus,S  2,103510,1,0
+Mk10=Stimulus,S  1,119545,1,0
+Mk11=Stimulus,S  2,135605,1,0
+Mk12=Stimulus,S  1,151657,1,0
+Mk13=Stimulus,S  2,167689,1,0
+Mk14=Stimulus,S  1,183715,1,0
+Mk15=Stimulus,S  2,199770,1,0
+Mk16=Stimulus,S  1,215831,1,0
+Mk17=Stimulus,S  2,231869,1,0
+Mk18=Stimulus,S  1,247928,1,0
+Mk19=New Segment,,263681,1,0,20230717122351067174
+Mk20=Stimulus,S  2,268459,1,0
+Mk21=Stimulus,S  1,284520,1,0
+Mk22=Stimulus,S  2,300570,1,0
+Mk23=Stimulus,S  1,316618,1,0
+Mk24=Stimulus,S  2,332684,1,0
+Mk25=Stimulus,S  1,348713,1,0
+Mk26=Stimulus,S  2,364763,1,0
+Mk27=Stimulus,S  1,380813,1,0
+Mk28=Stimulus,S  2,396831,1,0
+Mk29=Stimulus,S  1,412851,1,0
+Mk30=Stimulus,S  2,428907,1,0
+Mk31=Stimulus,S  1,444953,1,0
+Mk32=Stimulus,S  2,461008,1,0
+Mk33=Stimulus,S  1,477045,1,0
+Mk34=Stimulus,S  2,493096,1,0
+Mk35=Stimulus,S  1,509149,1,0
+Mk36=New Segment,,529921,1,0,20230717123013132307
+Mk37=New Segment,,531501,1,0,20230717123035986078
+Mk38=Stimulus,S  2,537215,1,0
+Mk39=Stimulus,S  1,553259,1,0
+Mk40=Stimulus,S  2,569280,1,0
+Mk41=Stimulus,S  1,585345,1,0
+Mk42=Stimulus,S  2,601389,1,0
+Mk43=Stimulus,S  1,617473,1,0
+Mk44=Stimulus,S  2,633487,1,0
+Mk45=Stimulus,S  1,649543,1,0
+Mk46=Stimulus,S  2,665611,1,0
+Mk47=Stimulus,S  1,681642,1,0
+Mk48=Stimulus,S  2,697672,1,0
+Mk49=Stimulus,S  1,713724,1,0
+Mk50=Stimulus,S  2,729763,1,0
+Mk51=Stimulus,S  1,745792,1,0
+Mk52=Stimulus,S  2,761824,1,0
+Mk53=Stimulus,S  1,777880,1,0

@@ -1,0 +1,62 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=umut_bahce_dinamik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230714171739598030
+Mk2=Stimulus,S  2,5836,1,0
+Mk3=Stimulus,S  1,19245,1,0
+Mk4=Stimulus,S  2,32602,1,0
+Mk5=Stimulus,S  1,45957,1,0
+Mk6=Stimulus,S  2,59344,1,0
+Mk7=Stimulus,S  1,72714,1,0
+Mk8=Stimulus,S  2,86071,1,0
+Mk9=Stimulus,S  1,99415,1,0
+Mk10=Stimulus,S  2,112839,1,0
+Mk11=Stimulus,S  1,126196,1,0
+Mk12=Stimulus,S  2,139594,1,0
+Mk13=Stimulus,S  1,152970,1,0
+Mk14=Stimulus,S  2,166387,1,0
+Mk15=Stimulus,S  1,179734,1,0
+Mk16=Stimulus,S  2,193111,1,0
+Mk17=Stimulus,S  1,206444,1,0
+Mk18=New Segment,,224861,1,0,20230714172851301067
+Mk19=Stimulus,S  2,230979,1,0
+Mk20=Stimulus,S  1,244345,1,0
+Mk21=Stimulus,S  2,257675,1,0
+Mk22=Stimulus,S  1,271054,1,0
+Mk23=Stimulus,S  2,284397,1,0
+Mk24=Stimulus,S  1,297762,1,0
+Mk25=Stimulus,S  2,311183,1,0
+Mk26=Stimulus,S  1,324547,1,0
+Mk27=Stimulus,S  2,337909,1,0
+Mk28=Stimulus,S  1,351272,1,0
+Mk29=Stimulus,S  2,364640,1,0
+Mk30=Stimulus,S  1,378007,1,0
+Mk31=Stimulus,S  2,391346,1,0
+Mk32=Stimulus,S  1,404696,1,0
+Mk33=Stimulus,S  2,418032,1,0
+Mk34=Stimulus,S  1,431372,1,0
+Mk35=New Segment,,451521,1,0,20230714173416905442
+Mk36=Stimulus,S  2,463889,1,0
+Mk37=Stimulus,S  1,477258,1,0
+Mk38=Stimulus,S  2,490622,1,0
+Mk39=Stimulus,S  1,504016,1,0
+Mk40=Stimulus,S  2,517354,1,0
+Mk41=Stimulus,S  1,530747,1,0
+Mk42=Stimulus,S  2,544083,1,0
+Mk43=Stimulus,S  1,557504,1,0
+Mk44=Stimulus,S  2,570896,1,0
+Mk45=Stimulus,S  1,584234,1,0
+Mk46=Stimulus,S  2,597616,1,0
+Mk47=Stimulus,S  1,610982,1,0
+Mk48=Stimulus,S  2,624315,1,0
+Mk49=Stimulus,S  1,637679,1,0
+Mk50=Stimulus,S  2,651046,1,0
+Mk51=Stimulus,S  1,664387,1,0

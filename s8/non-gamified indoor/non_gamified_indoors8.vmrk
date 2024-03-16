@@ -1,0 +1,28 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=umut_mutfak_statik_v2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20230714184311206805
+Mk2=Stimulus,S  2,6535,1,0
+Mk3=Stimulus,S  1,22579,1,0
+Mk4=Stimulus,S  2,38615,1,0
+Mk5=Stimulus,S  1,54634,1,0
+Mk6=Stimulus,S  2,70650,1,0
+Mk7=Stimulus,S  1,86688,1,0
+Mk8=Stimulus,S  2,102713,1,0
+Mk9=Stimulus,S  1,118723,1,0
+Mk10=Stimulus,S  2,134744,1,0
+Mk11=Stimulus,S  1,150757,1,0
+Mk12=Stimulus,S  2,166771,1,0
+Mk13=Stimulus,S  1,182779,1,0
+Mk14=Stimulus,S  2,198788,1,0
+Mk15=Stimulus,S  1,214798,1,0
+Mk16=Stimulus,S  2,230809,1,0
+Mk17=Stimulus,S  1,246821,1,0
